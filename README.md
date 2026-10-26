@@ -36,7 +36,7 @@ Food Services: Food outlet discovery, online ordering where supported and offlin
 Feedback Management: Passenger complaints, suggestions, issue tracking and an administrator dashboard.
 ```
 
-![alt text](mermaid-diagram.png)
+![alt text](SIH_img.png)
 ## Sample Website Interface 
 ![alt text](image.png)
 ## Use Cases
